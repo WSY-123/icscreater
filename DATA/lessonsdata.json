@@ -1,0 +1,7316 @@
+[
+  {
+    "name": "2018-2019-1-SP190-392223",
+    "kind": "sjtu.lesson",
+    "bsid": "392223",
+    "code": "2018-2019-1-SP190-392223",
+    "course": {
+      "code": "SP190",
+      "name": "绝对零度的奇迹：超流与超导",
+      "kind": "sjtu.course"
+    },
+    "teachers": [
+      {
+        "name": "张鹏",
+        "kind": "canvas.profile"
+      }
+    ],
+    "organize": {
+      "id": "02000",
+      "name": "机械与动力工程学院"
+    },
+    "hours": 32,
+    "credits": 2,
+    "classes": [
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 7,
+          "day": 3,
+          "period": 10,
+          "start": 1541066400,
+          "finish": 1541069100
+        },
+        "classroom": {
+          "name": "上院304",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 14,
+          "day": 3,
+          "period": 11,
+          "start": 1545303300,
+          "finish": 1545306000
+        },
+        "classroom": {
+          "name": "上院304",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 13,
+          "day": 3,
+          "period": 12,
+          "start": 1544701800,
+          "finish": 1544704500
+        },
+        "classroom": {
+          "name": "上院304",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 3,
+          "period": 11,
+          "start": 1539255300,
+          "finish": 1539258000
+        },
+        "classroom": {
+          "name": "上院304",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 5,
+          "day": 3,
+          "period": 10,
+          "start": 1539856800,
+          "finish": 1539859500
+        },
+        "classroom": {
+          "name": "上院304",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 7,
+          "day": 3,
+          "period": 12,
+          "start": 1541073000,
+          "finish": 1541075700
+        },
+        "classroom": {
+          "name": "上院304",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 8,
+          "day": 3,
+          "period": 11,
+          "start": 1541674500,
+          "finish": 1541677200
+        },
+        "classroom": {
+          "name": "上院304",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 5,
+          "day": 3,
+          "period": 12,
+          "start": 1539863400,
+          "finish": 1539866100
+        },
+        "classroom": {
+          "name": "上院304",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 6,
+          "day": 3,
+          "period": 11,
+          "start": 1540464900,
+          "finish": 1540467600
+        },
+        "classroom": {
+          "name": "上院304",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 9,
+          "day": 3,
+          "period": 12,
+          "start": 1542282600,
+          "finish": 1542285300
+        },
+        "classroom": {
+          "name": "上院304",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 10,
+          "day": 3,
+          "period": 11,
+          "start": 1542884100,
+          "finish": 1542886800
+        },
+        "classroom": {
+          "name": "上院304",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 11,
+          "day": 3,
+          "period": 12,
+          "start": 1543492200,
+          "finish": 1543494900
+        },
+        "classroom": {
+          "name": "上院304",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 12,
+          "day": 3,
+          "period": 11,
+          "start": 1544093700,
+          "finish": 1544096400
+        },
+        "classroom": {
+          "name": "上院304",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 13,
+          "day": 3,
+          "period": 10,
+          "start": 1544695200,
+          "finish": 1544697900
+        },
+        "classroom": {
+          "name": "上院304",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 9,
+          "day": 3,
+          "period": 10,
+          "start": 1542276000,
+          "finish": 1542278700
+        },
+        "classroom": {
+          "name": "上院304",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 11,
+          "day": 3,
+          "period": 10,
+          "start": 1543485600,
+          "finish": 1543488300
+        },
+        "classroom": {
+          "name": "上院304",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 6,
+          "day": 3,
+          "period": 12,
+          "start": 1540468200,
+          "finish": 1540470900
+        },
+        "classroom": {
+          "name": "上院304",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 14,
+          "day": 3,
+          "period": 12,
+          "start": 1545306600,
+          "finish": 1545309300
+        },
+        "classroom": {
+          "name": "上院304",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 3,
+          "period": 10,
+          "start": 1539252000,
+          "finish": 1539254700
+        },
+        "classroom": {
+          "name": "上院304",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 8,
+          "day": 3,
+          "period": 12,
+          "start": 1541677800,
+          "finish": 1541680500
+        },
+        "classroom": {
+          "name": "上院304",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 5,
+          "day": 3,
+          "period": 11,
+          "start": 1539860100,
+          "finish": 1539862800
+        },
+        "classroom": {
+          "name": "上院304",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 6,
+          "day": 3,
+          "period": 10,
+          "start": 1540461600,
+          "finish": 1540464300
+        },
+        "classroom": {
+          "name": "上院304",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 3,
+          "period": 12,
+          "start": 1539258600,
+          "finish": 1539261300
+        },
+        "classroom": {
+          "name": "上院304",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 7,
+          "day": 3,
+          "period": 11,
+          "start": 1541069700,
+          "finish": 1541072400
+        },
+        "classroom": {
+          "name": "上院304",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 8,
+          "day": 3,
+          "period": 10,
+          "start": 1541671200,
+          "finish": 1541673900
+        },
+        "classroom": {
+          "name": "上院304",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 10,
+          "day": 3,
+          "period": 12,
+          "start": 1542887400,
+          "finish": 1542890100
+        },
+        "classroom": {
+          "name": "上院304",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 12,
+          "day": 3,
+          "period": 12,
+          "start": 1544097000,
+          "finish": 1544099700
+        },
+        "classroom": {
+          "name": "上院304",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 13,
+          "day": 3,
+          "period": 11,
+          "start": 1544698500,
+          "finish": 1544701200
+        },
+        "classroom": {
+          "name": "上院304",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 14,
+          "day": 3,
+          "period": 10,
+          "start": 1545300000,
+          "finish": 1545302700
+        },
+        "classroom": {
+          "name": "上院304",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 11,
+          "day": 3,
+          "period": 11,
+          "start": 1543488900,
+          "finish": 1543491600
+        },
+        "classroom": {
+          "name": "上院304",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 12,
+          "day": 3,
+          "period": 10,
+          "start": 1544090400,
+          "finish": 1544093100
+        },
+        "classroom": {
+          "name": "上院304",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 9,
+          "day": 3,
+          "period": 11,
+          "start": 1542279300,
+          "finish": 1542282000
+        },
+        "classroom": {
+          "name": "上院304",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 10,
+          "day": 3,
+          "period": 10,
+          "start": 1542880800,
+          "finish": 1542883500
+        },
+        "classroom": {
+          "name": "上院304",
+          "kind": "sjtu.room"
+        }
+      }
+    ]
+  },
+  {
+    "name": "2018-2019-1-MA077-393454",
+    "kind": "sjtu.lesson",
+    "bsid": "393454",
+    "code": "2018-2019-1-MA077-393454",
+    "course": {
+      "code": "MA077",
+      "name": "线性代数（B类）",
+      "kind": "sjtu.course"
+    },
+    "teachers": [
+      {
+        "name": "蒋启芬",
+        "kind": "canvas.profile"
+      }
+    ],
+    "organize": {
+      "id": "07100",
+      "name": "数学系"
+    },
+    "hours": 48,
+    "credits": 3,
+    "classes": [
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 10,
+          "day": 1,
+          "period": 3,
+          "start": 1542682500,
+          "finish": 1542685200
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 3,
+          "day": 1,
+          "period": 2,
+          "start": 1538445600,
+          "finish": 1538448300
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 12,
+          "day": 3,
+          "period": 1,
+          "start": 1544057700,
+          "finish": 1544060400
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 9,
+          "day": 1,
+          "period": 2,
+          "start": 1542074400,
+          "finish": 1542077100
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 8,
+          "day": 1,
+          "period": 3,
+          "start": 1541472900,
+          "finish": 1541475600
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 7,
+          "day": 1,
+          "period": 2,
+          "start": 1540864800,
+          "finish": 1540867500
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 1,
+          "period": 3,
+          "start": 1539053700,
+          "finish": 1539056400
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 13,
+          "day": 1,
+          "period": 3,
+          "start": 1544496900,
+          "finish": 1544499600
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 2,
+          "day": 3,
+          "period": 1,
+          "start": 1538009700,
+          "finish": 1538012400
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 0,
+          "day": 1,
+          "period": 3,
+          "start": 1536634500,
+          "finish": 1536637200
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 6,
+          "day": 3,
+          "period": 1,
+          "start": 1540428900,
+          "finish": 1540431600
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 14,
+          "day": 3,
+          "period": 0,
+          "start": 1545264000,
+          "finish": 1545266700
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 2,
+          "day": 1,
+          "period": 2,
+          "start": 1537840800,
+          "finish": 1537843500
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 3,
+          "period": 0,
+          "start": 1539216000,
+          "finish": 1539218700
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 12,
+          "day": 1,
+          "period": 2,
+          "start": 1543888800,
+          "finish": 1543891500
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 3,
+          "day": 1,
+          "period": 3,
+          "start": 1538448900,
+          "finish": 1538451600
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 9,
+          "day": 1,
+          "period": 3,
+          "start": 1542077700,
+          "finish": 1542080400
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 10,
+          "day": 3,
+          "period": 0,
+          "start": 1542844800,
+          "finish": 1542847500
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 7,
+          "day": 1,
+          "period": 3,
+          "start": 1540868100,
+          "finish": 1540870800
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 6,
+          "day": 1,
+          "period": 2,
+          "start": 1540260000,
+          "finish": 1540262700
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 0,
+          "day": 3,
+          "period": 0,
+          "start": 1536796800,
+          "finish": 1536799500
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 12,
+          "day": 1,
+          "period": 3,
+          "start": 1543892100,
+          "finish": 1543894800
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 15,
+          "day": 1,
+          "period": 2,
+          "start": 1545703200,
+          "finish": 1545705900
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 8,
+          "day": 3,
+          "period": 0,
+          "start": 1541635200,
+          "finish": 1541637900
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 3,
+          "period": 1,
+          "start": 1539219300,
+          "finish": 1539222000
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 11,
+          "day": 1,
+          "period": 2,
+          "start": 1543284000,
+          "finish": 1543286700
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 2,
+          "day": 1,
+          "period": 3,
+          "start": 1537844100,
+          "finish": 1537846800
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 14,
+          "day": 3,
+          "period": 1,
+          "start": 1545267300,
+          "finish": 1545270000
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 10,
+          "day": 3,
+          "period": 1,
+          "start": 1542848100,
+          "finish": 1542850800
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 0,
+          "day": 3,
+          "period": 1,
+          "start": 1536800100,
+          "finish": 1536802800
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 6,
+          "day": 1,
+          "period": 3,
+          "start": 1540263300,
+          "finish": 1540266000
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 5,
+          "day": 1,
+          "period": 2,
+          "start": 1539655200,
+          "finish": 1539657900
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 14,
+          "day": 1,
+          "period": 2,
+          "start": 1545098400,
+          "finish": 1545101100
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 8,
+          "day": 3,
+          "period": 1,
+          "start": 1541638500,
+          "finish": 1541641200
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 1,
+          "day": 1,
+          "period": 2,
+          "start": 1537236000,
+          "finish": 1537238700
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 15,
+          "day": 1,
+          "period": 3,
+          "start": 1545706500,
+          "finish": 1545709200
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 11,
+          "day": 1,
+          "period": 3,
+          "start": 1543287300,
+          "finish": 1543290000
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 1,
+          "day": 1,
+          "period": 3,
+          "start": 1537239300,
+          "finish": 1537242000
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 10,
+          "day": 1,
+          "period": 2,
+          "start": 1542679200,
+          "finish": 1542681900
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 12,
+          "day": 3,
+          "period": 0,
+          "start": 1544054400,
+          "finish": 1544057100
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 5,
+          "day": 1,
+          "period": 3,
+          "start": 1539658500,
+          "finish": 1539661200
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 8,
+          "day": 1,
+          "period": 2,
+          "start": 1541469600,
+          "finish": 1541472300
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 2,
+          "day": 3,
+          "period": 0,
+          "start": 1538006400,
+          "finish": 1538009100
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 1,
+          "period": 2,
+          "start": 1539050400,
+          "finish": 1539053100
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 13,
+          "day": 1,
+          "period": 2,
+          "start": 1544493600,
+          "finish": 1544496300
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 6,
+          "day": 3,
+          "period": 0,
+          "start": 1540425600,
+          "finish": 1540428300
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 14,
+          "day": 1,
+          "period": 3,
+          "start": 1545101700,
+          "finish": 1545104400
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 0,
+          "day": 1,
+          "period": 2,
+          "start": 1536631200,
+          "finish": 1536633900
+        },
+        "classroom": {
+          "name": "东下院115",
+          "kind": "sjtu.room"
+        }
+      }
+    ]
+  },
+  {
+    "name": "2018-2019-1-MA080-393473",
+    "kind": "sjtu.lesson",
+    "bsid": "393473",
+    "code": "2018-2019-1-MA080-393473",
+    "course": {
+      "code": "MA080",
+      "name": "高等数学（A）（1）",
+      "kind": "sjtu.course"
+    },
+    "teachers": [
+      {
+        "name": "陈春丽",
+        "kind": "canvas.profile"
+      }
+    ],
+    "organize": {
+      "id": "07100",
+      "name": "数学系"
+    },
+    "hours": 96,
+    "credits": 6,
+    "classes": [
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 8,
+          "day": 0,
+          "period": 1,
+          "start": 1541379300,
+          "finish": 1541382000
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 7,
+          "day": 2,
+          "period": 0,
+          "start": 1540944000,
+          "finish": 1540946700
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 13,
+          "day": 0,
+          "period": 0,
+          "start": 1544400000,
+          "finish": 1544402700
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 14,
+          "day": 2,
+          "period": 1,
+          "start": 1545180900,
+          "finish": 1545183600
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 15,
+          "day": 4,
+          "period": 2,
+          "start": 1545962400,
+          "finish": 1545965100
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 3,
+          "day": 0,
+          "period": 0,
+          "start": 1538352000,
+          "finish": 1538354700
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 2,
+          "day": 4,
+          "period": 3,
+          "start": 1538103300,
+          "finish": 1538106000
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 0,
+          "day": 0,
+          "period": 1,
+          "start": 1536540900,
+          "finish": 1536543600
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 2,
+          "period": 1,
+          "start": 1539132900,
+          "finish": 1539135600
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 5,
+          "day": 4,
+          "period": 2,
+          "start": 1539914400,
+          "finish": 1539917100
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 9,
+          "day": 4,
+          "period": 3,
+          "start": 1542336900,
+          "finish": 1542339600
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 11,
+          "day": 2,
+          "period": 1,
+          "start": 1543366500,
+          "finish": 1543369200
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 12,
+          "day": 4,
+          "period": 2,
+          "start": 1544148000,
+          "finish": 1544150700
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 10,
+          "day": 0,
+          "period": 0,
+          "start": 1542585600,
+          "finish": 1542588300
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 6,
+          "day": 0,
+          "period": 0,
+          "start": 1540166400,
+          "finish": 1540169100
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 7,
+          "day": 2,
+          "period": 1,
+          "start": 1540947300,
+          "finish": 1540950000
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 14,
+          "day": 2,
+          "period": 0,
+          "start": 1545177600,
+          "finish": 1545180300
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 3,
+          "day": 0,
+          "period": 1,
+          "start": 1538355300,
+          "finish": 1538358000
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 5,
+          "day": 4,
+          "period": 3,
+          "start": 1539917700,
+          "finish": 1539920400
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 8,
+          "day": 4,
+          "period": 2,
+          "start": 1541728800,
+          "finish": 1541731500
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 15,
+          "day": 0,
+          "period": 1,
+          "start": 1545612900,
+          "finish": 1545615600
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 2,
+          "day": 2,
+          "period": 0,
+          "start": 1537920000,
+          "finish": 1537922700
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 11,
+          "day": 2,
+          "period": 0,
+          "start": 1543363200,
+          "finish": 1543365900
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 0,
+          "day": 4,
+          "period": 2,
+          "start": 1536890400,
+          "finish": 1536893100
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 9,
+          "day": 4,
+          "period": 2,
+          "start": 1542333600,
+          "finish": 1542336300
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 6,
+          "day": 0,
+          "period": 1,
+          "start": 1540169700,
+          "finish": 1540172400
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 15,
+          "day": 2,
+          "period": 0,
+          "start": 1545782400,
+          "finish": 1545785100
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 8,
+          "day": 4,
+          "period": 3,
+          "start": 1541732100,
+          "finish": 1541734800
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 2,
+          "day": 2,
+          "period": 1,
+          "start": 1537923300,
+          "finish": 1537926000
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 3,
+          "day": 4,
+          "period": 2,
+          "start": 1538704800,
+          "finish": 1538707500
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 1,
+          "day": 0,
+          "period": 0,
+          "start": 1537142400,
+          "finish": 1537145100
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 5,
+          "day": 2,
+          "period": 0,
+          "start": 1539734400,
+          "finish": 1539737100
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 10,
+          "day": 4,
+          "period": 2,
+          "start": 1542938400,
+          "finish": 1542941100
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 0,
+          "day": 4,
+          "period": 3,
+          "start": 1536893700,
+          "finish": 1536896400
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 9,
+          "day": 2,
+          "period": 1,
+          "start": 1542156900,
+          "finish": 1542159600
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 12,
+          "day": 2,
+          "period": 0,
+          "start": 1543968000,
+          "finish": 1543970700
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 15,
+          "day": 4,
+          "period": 3,
+          "start": 1545965700,
+          "finish": 1545968400
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 13,
+          "day": 0,
+          "period": 1,
+          "start": 1544403300,
+          "finish": 1544406000
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 1,
+          "day": 0,
+          "period": 1,
+          "start": 1537145700,
+          "finish": 1537148400
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 0,
+          "period": 0,
+          "start": 1538956800,
+          "finish": 1538959500
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 5,
+          "day": 2,
+          "period": 1,
+          "start": 1539737700,
+          "finish": 1539740400
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 8,
+          "day": 2,
+          "period": 0,
+          "start": 1541548800,
+          "finish": 1541551500
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 3,
+          "day": 4,
+          "period": 3,
+          "start": 1538708100,
+          "finish": 1538710800
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 6,
+          "day": 4,
+          "period": 2,
+          "start": 1540519200,
+          "finish": 1540521900
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 0,
+          "day": 2,
+          "period": 0,
+          "start": 1536710400,
+          "finish": 1536713100
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 10,
+          "day": 0,
+          "period": 1,
+          "start": 1542588900,
+          "finish": 1542591600
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 12,
+          "day": 4,
+          "period": 3,
+          "start": 1544151300,
+          "finish": 1544154000
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 9,
+          "day": 2,
+          "period": 0,
+          "start": 1542153600,
+          "finish": 1542156300
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 6,
+          "day": 4,
+          "period": 3,
+          "start": 1540522500,
+          "finish": 1540525200
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 14,
+          "day": 0,
+          "period": 1,
+          "start": 1545008100,
+          "finish": 1545010800
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 0,
+          "period": 1,
+          "start": 1538960100,
+          "finish": 1538962800
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 7,
+          "day": 0,
+          "period": 0,
+          "start": 1540771200,
+          "finish": 1540773900
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 8,
+          "day": 2,
+          "period": 1,
+          "start": 1541552100,
+          "finish": 1541554800
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 3,
+          "day": 2,
+          "period": 0,
+          "start": 1538524800,
+          "finish": 1538527500
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 0,
+          "day": 2,
+          "period": 1,
+          "start": 1536713700,
+          "finish": 1536716400
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 1,
+          "day": 4,
+          "period": 2,
+          "start": 1537495200,
+          "finish": 1537497900
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 10,
+          "day": 2,
+          "period": 0,
+          "start": 1542758400,
+          "finish": 1542761100
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 15,
+          "day": 2,
+          "period": 1,
+          "start": 1545785700,
+          "finish": 1545788400
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 14,
+          "day": 0,
+          "period": 0,
+          "start": 1545004800,
+          "finish": 1545007500
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 7,
+          "day": 0,
+          "period": 1,
+          "start": 1540774500,
+          "finish": 1540777200
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 13,
+          "day": 4,
+          "period": 3,
+          "start": 1544756100,
+          "finish": 1544758800
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 4,
+          "period": 2,
+          "start": 1539309600,
+          "finish": 1539312300
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 11,
+          "day": 0,
+          "period": 1,
+          "start": 1543193700,
+          "finish": 1543196400
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 2,
+          "day": 0,
+          "period": 0,
+          "start": 1537747200,
+          "finish": 1537749900
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 3,
+          "day": 2,
+          "period": 1,
+          "start": 1538528100,
+          "finish": 1538530800
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 6,
+          "day": 2,
+          "period": 0,
+          "start": 1540339200,
+          "finish": 1540341900
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 1,
+          "day": 4,
+          "period": 3,
+          "start": 1537498500,
+          "finish": 1537501200
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 10,
+          "day": 4,
+          "period": 3,
+          "start": 1542941700,
+          "finish": 1542944400
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 11,
+          "day": 0,
+          "period": 0,
+          "start": 1543190400,
+          "finish": 1543193100
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 12,
+          "day": 2,
+          "period": 1,
+          "start": 1543971300,
+          "finish": 1543974000
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 13,
+          "day": 4,
+          "period": 2,
+          "start": 1544752800,
+          "finish": 1544755500
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 6,
+          "day": 2,
+          "period": 1,
+          "start": 1540342500,
+          "finish": 1540345200
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 7,
+          "day": 4,
+          "period": 2,
+          "start": 1541124000,
+          "finish": 1541126700
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 5,
+          "day": 0,
+          "period": 0,
+          "start": 1539561600,
+          "finish": 1539564300
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 15,
+          "day": 0,
+          "period": 0,
+          "start": 1545609600,
+          "finish": 1545612300
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 14,
+          "day": 4,
+          "period": 3,
+          "start": 1545360900,
+          "finish": 1545363600
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 2,
+          "day": 0,
+          "period": 1,
+          "start": 1537750500,
+          "finish": 1537753200
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 12,
+          "day": 0,
+          "period": 1,
+          "start": 1543798500,
+          "finish": 1543801200
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 4,
+          "period": 3,
+          "start": 1539312900,
+          "finish": 1539315600
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 1,
+          "day": 2,
+          "period": 0,
+          "start": 1537315200,
+          "finish": 1537317900
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 11,
+          "day": 4,
+          "period": 3,
+          "start": 1543546500,
+          "finish": 1543549200
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 9,
+          "day": 0,
+          "period": 1,
+          "start": 1541984100,
+          "finish": 1541986800
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 5,
+          "day": 0,
+          "period": 1,
+          "start": 1539564900,
+          "finish": 1539567600
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 7,
+          "day": 4,
+          "period": 3,
+          "start": 1541127300,
+          "finish": 1541130000
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 13,
+          "day": 2,
+          "period": 1,
+          "start": 1544576100,
+          "finish": 1544578800
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 14,
+          "day": 4,
+          "period": 2,
+          "start": 1545357600,
+          "finish": 1545360300
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 2,
+          "period": 0,
+          "start": 1539129600,
+          "finish": 1539132300
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 8,
+          "day": 0,
+          "period": 0,
+          "start": 1541376000,
+          "finish": 1541378700
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 12,
+          "day": 0,
+          "period": 0,
+          "start": 1543795200,
+          "finish": 1543797900
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 0,
+          "day": 0,
+          "period": 0,
+          "start": 1536537600,
+          "finish": 1536540300
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 1,
+          "day": 2,
+          "period": 1,
+          "start": 1537318500,
+          "finish": 1537321200
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 9,
+          "day": 0,
+          "period": 0,
+          "start": 1541980800,
+          "finish": 1541983500
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 10,
+          "day": 2,
+          "period": 1,
+          "start": 1542761700,
+          "finish": 1542764400
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 2,
+          "day": 4,
+          "period": 2,
+          "start": 1538100000,
+          "finish": 1538102700
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 11,
+          "day": 4,
+          "period": 2,
+          "start": 1543543200,
+          "finish": 1543545900
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 13,
+          "day": 2,
+          "period": 0,
+          "start": 1544572800,
+          "finish": 1544575500
+        },
+        "classroom": {
+          "name": "东上院312",
+          "kind": "sjtu.room"
+        }
+      }
+    ]
+  },
+  {
+    "name": "2018-2019-1-CA001-393520",
+    "kind": "sjtu.lesson",
+    "bsid": "393520",
+    "code": "2018-2019-1-CA001-393520",
+    "course": {
+      "code": "CA001",
+      "name": "大学化学",
+      "kind": "sjtu.course"
+    },
+    "teachers": [
+      {
+        "name": "钟洪亮",
+        "kind": "canvas.profile"
+      }
+    ],
+    "organize": {
+      "id": "11000",
+      "name": "化学化工学院"
+    },
+    "hours": 32,
+    "credits": 2,
+    "classes": [
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 8,
+          "day": 3,
+          "period": 3,
+          "start": 1541645700,
+          "finish": 1541648400
+        },
+        "classroom": {
+          "name": "东上院311",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 14,
+          "day": 3,
+          "period": 3,
+          "start": 1545274500,
+          "finish": 1545277200
+        },
+        "classroom": {
+          "name": "东上院311",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 3,
+          "period": 3,
+          "start": 1539226500,
+          "finish": 1539229200
+        },
+        "classroom": {
+          "name": "东上院311",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 5,
+          "day": 3,
+          "period": 2,
+          "start": 1539828000,
+          "finish": 1539830700
+        },
+        "classroom": {
+          "name": "东上院311",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 15,
+          "day": 3,
+          "period": 2,
+          "start": 1545876000,
+          "finish": 1545878700
+        },
+        "classroom": {
+          "name": "东上院311",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 6,
+          "day": 3,
+          "period": 3,
+          "start": 1540436100,
+          "finish": 1540438800
+        },
+        "classroom": {
+          "name": "东上院311",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 7,
+          "day": 3,
+          "period": 2,
+          "start": 1541037600,
+          "finish": 1541040300
+        },
+        "classroom": {
+          "name": "东上院311",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 13,
+          "day": 3,
+          "period": 2,
+          "start": 1544666400,
+          "finish": 1544669100
+        },
+        "classroom": {
+          "name": "东上院311",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 2,
+          "day": 3,
+          "period": 3,
+          "start": 1538016900,
+          "finish": 1538019600
+        },
+        "classroom": {
+          "name": "东上院311",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 3,
+          "day": 3,
+          "period": 2,
+          "start": 1538618400,
+          "finish": 1538621100
+        },
+        "classroom": {
+          "name": "东上院311",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 12,
+          "day": 3,
+          "period": 3,
+          "start": 1544064900,
+          "finish": 1544067600
+        },
+        "classroom": {
+          "name": "东上院311",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 0,
+          "day": 3,
+          "period": 3,
+          "start": 1536807300,
+          "finish": 1536810000
+        },
+        "classroom": {
+          "name": "东上院311",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 1,
+          "day": 3,
+          "period": 2,
+          "start": 1537408800,
+          "finish": 1537411500
+        },
+        "classroom": {
+          "name": "东上院311",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 9,
+          "day": 3,
+          "period": 3,
+          "start": 1542250500,
+          "finish": 1542253200
+        },
+        "classroom": {
+          "name": "东上院311",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 10,
+          "day": 3,
+          "period": 2,
+          "start": 1542852000,
+          "finish": 1542854700
+        },
+        "classroom": {
+          "name": "东上院311",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 5,
+          "day": 3,
+          "period": 3,
+          "start": 1539831300,
+          "finish": 1539834000
+        },
+        "classroom": {
+          "name": "东上院311",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 6,
+          "day": 3,
+          "period": 2,
+          "start": 1540432800,
+          "finish": 1540435500
+        },
+        "classroom": {
+          "name": "东上院311",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 13,
+          "day": 3,
+          "period": 3,
+          "start": 1544669700,
+          "finish": 1544672400
+        },
+        "classroom": {
+          "name": "东上院311",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 14,
+          "day": 3,
+          "period": 2,
+          "start": 1545271200,
+          "finish": 1545273900
+        },
+        "classroom": {
+          "name": "东上院311",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 7,
+          "day": 3,
+          "period": 3,
+          "start": 1541040900,
+          "finish": 1541043600
+        },
+        "classroom": {
+          "name": "东上院311",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 8,
+          "day": 3,
+          "period": 2,
+          "start": 1541642400,
+          "finish": 1541645100
+        },
+        "classroom": {
+          "name": "东上院311",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 11,
+          "day": 3,
+          "period": 3,
+          "start": 1543460100,
+          "finish": 1543462800
+        },
+        "classroom": {
+          "name": "东上院311",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 12,
+          "day": 3,
+          "period": 2,
+          "start": 1544061600,
+          "finish": 1544064300
+        },
+        "classroom": {
+          "name": "东上院311",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 3,
+          "day": 3,
+          "period": 3,
+          "start": 1538621700,
+          "finish": 1538624400
+        },
+        "classroom": {
+          "name": "东上院311",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 1,
+          "day": 3,
+          "period": 3,
+          "start": 1537412100,
+          "finish": 1537414800
+        },
+        "classroom": {
+          "name": "东上院311",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 3,
+          "period": 2,
+          "start": 1539223200,
+          "finish": 1539225900
+        },
+        "classroom": {
+          "name": "东上院311",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 15,
+          "day": 3,
+          "period": 3,
+          "start": 1545879300,
+          "finish": 1545882000
+        },
+        "classroom": {
+          "name": "东上院311",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 2,
+          "day": 3,
+          "period": 2,
+          "start": 1538013600,
+          "finish": 1538016300
+        },
+        "classroom": {
+          "name": "东上院311",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 0,
+          "day": 3,
+          "period": 2,
+          "start": 1536804000,
+          "finish": 1536806700
+        },
+        "classroom": {
+          "name": "东上院311",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 9,
+          "day": 3,
+          "period": 2,
+          "start": 1542247200,
+          "finish": 1542249900
+        },
+        "classroom": {
+          "name": "东上院311",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 10,
+          "day": 3,
+          "period": 3,
+          "start": 1542855300,
+          "finish": 1542858000
+        },
+        "classroom": {
+          "name": "东上院311",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 11,
+          "day": 3,
+          "period": 2,
+          "start": 1543456800,
+          "finish": 1543459500
+        },
+        "classroom": {
+          "name": "东上院311",
+          "kind": "sjtu.room"
+        }
+      }
+    ]
+  },
+  {
+    "name": "2018-2019-1-CA044-393538",
+    "kind": "sjtu.lesson",
+    "bsid": "393538",
+    "code": "2018-2019-1-CA044-393538",
+    "course": {
+      "code": "CA044",
+      "name": "大学化学实验",
+      "kind": "sjtu.course"
+    },
+    "teachers": [
+      {
+        "name": "韩莉",
+        "kind": "canvas.profile"
+      }
+    ],
+    "organize": {
+      "id": "11000",
+      "name": "化学化工学院"
+    },
+    "hours": 16,
+    "credits": 1,
+    "classes": [
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 2,
+          "day": 1,
+          "period": 7,
+          "start": 1537858500,
+          "finish": 1537861200
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 3,
+          "day": 1,
+          "period": 6,
+          "start": 1538460000,
+          "finish": 1538462700
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 1,
+          "period": 5,
+          "start": 1539060900,
+          "finish": 1539063600
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 2,
+          "day": 1,
+          "period": 6,
+          "start": 1537855200,
+          "finish": 1537857900
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 3,
+          "day": 1,
+          "period": 5,
+          "start": 1538456100,
+          "finish": 1538458800
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 1,
+          "day": 1,
+          "period": 7,
+          "start": 1537253700,
+          "finish": 1537256400
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 3,
+          "day": 1,
+          "period": 8,
+          "start": 1538467200,
+          "finish": 1538469900
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 1,
+          "period": 7,
+          "start": 1539068100,
+          "finish": 1539070800
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 5,
+          "day": 1,
+          "period": 5,
+          "start": 1539665700,
+          "finish": 1539668400
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 1,
+          "day": 1,
+          "period": 8,
+          "start": 1537257600,
+          "finish": 1537260300
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 2,
+          "day": 1,
+          "period": 8,
+          "start": 1537862400,
+          "finish": 1537865100
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 3,
+          "day": 1,
+          "period": 7,
+          "start": 1538463300,
+          "finish": 1538466000
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 1,
+          "period": 6,
+          "start": 1539064800,
+          "finish": 1539067500
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 5,
+          "day": 1,
+          "period": 6,
+          "start": 1539669600,
+          "finish": 1539672300
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 5,
+          "day": 1,
+          "period": 7,
+          "start": 1539672900,
+          "finish": 1539675600
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 1,
+          "period": 8,
+          "start": 1539072000,
+          "finish": 1539074700
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 5,
+          "day": 1,
+          "period": 8,
+          "start": 1539676800,
+          "finish": 1539679500
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 1,
+          "day": 1,
+          "period": 5,
+          "start": 1537246500,
+          "finish": 1537249200
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 1,
+          "day": 1,
+          "period": 6,
+          "start": 1537250400,
+          "finish": 1537253100
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 2,
+          "day": 1,
+          "period": 5,
+          "start": 1537851300,
+          "finish": 1537854000
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      }
+    ]
+  },
+  {
+    "name": "2018-2019-1-CS154-393577",
+    "kind": "sjtu.lesson",
+    "bsid": "393577",
+    "code": "2018-2019-1-CS154-393577",
+    "course": {
+      "code": "CS154",
+      "name": "程序设计思想与方法（C++）",
+      "kind": "sjtu.course"
+    },
+    "teachers": [
+      {
+        "name": "宦飞",
+        "kind": "canvas.profile"
+      }
+    ],
+    "organize": {
+      "id": "03000",
+      "name": "电子信息与电气工程学院"
+    },
+    "hours": 48,
+    "credits": 3,
+    "classes": [
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 12,
+          "day": 0,
+          "period": 6,
+          "start": 1543816800,
+          "finish": 1543819500
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 2,
+          "day": 0,
+          "period": 6,
+          "start": 1537768800,
+          "finish": 1537771500
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 7,
+          "day": 3,
+          "period": 1,
+          "start": 1541033700,
+          "finish": 1541036400
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 3,
+          "day": 0,
+          "period": 7,
+          "start": 1538376900,
+          "finish": 1538379600
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 13,
+          "day": 3,
+          "period": 1,
+          "start": 1544662500,
+          "finish": 1544665200
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 3,
+          "day": 3,
+          "period": 1,
+          "start": 1538614500,
+          "finish": 1538617200
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 7,
+          "day": 0,
+          "period": 7,
+          "start": 1540796100,
+          "finish": 1540798800
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 6,
+          "day": 0,
+          "period": 6,
+          "start": 1540188000,
+          "finish": 1540190700
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 9,
+          "day": 0,
+          "period": 7,
+          "start": 1542005700,
+          "finish": 1542008400
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 13,
+          "day": 0,
+          "period": 7,
+          "start": 1544424900,
+          "finish": 1544427600
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 9,
+          "day": 3,
+          "period": 0,
+          "start": 1542240000,
+          "finish": 1542242700
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 13,
+          "day": 3,
+          "period": 0,
+          "start": 1544659200,
+          "finish": 1544661900
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 3,
+          "day": 0,
+          "period": 6,
+          "start": 1538373600,
+          "finish": 1538376300
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 11,
+          "day": 0,
+          "period": 6,
+          "start": 1543212000,
+          "finish": 1543214700
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 0,
+          "period": 7,
+          "start": 1538981700,
+          "finish": 1538984400
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 7,
+          "day": 3,
+          "period": 0,
+          "start": 1541030400,
+          "finish": 1541033100
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 15,
+          "day": 3,
+          "period": 0,
+          "start": 1545868800,
+          "finish": 1545871500
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 3,
+          "day": 3,
+          "period": 0,
+          "start": 1538611200,
+          "finish": 1538613900
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 8,
+          "day": 0,
+          "period": 7,
+          "start": 1541400900,
+          "finish": 1541403600
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 7,
+          "day": 0,
+          "period": 6,
+          "start": 1540792800,
+          "finish": 1540795500
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 0,
+          "day": 0,
+          "period": 7,
+          "start": 1536562500,
+          "finish": 1536565200
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 12,
+          "day": 0,
+          "period": 7,
+          "start": 1543820100,
+          "finish": 1543822800
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 15,
+          "day": 0,
+          "period": 6,
+          "start": 1545631200,
+          "finish": 1545633900
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 9,
+          "day": 3,
+          "period": 1,
+          "start": 1542243300,
+          "finish": 1542246000
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 11,
+          "day": 0,
+          "period": 7,
+          "start": 1543215300,
+          "finish": 1543218000
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 1,
+          "day": 0,
+          "period": 7,
+          "start": 1537167300,
+          "finish": 1537170000
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 0,
+          "period": 6,
+          "start": 1538978400,
+          "finish": 1538981100
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 10,
+          "day": 0,
+          "period": 6,
+          "start": 1542607200,
+          "finish": 1542609900
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 5,
+          "day": 0,
+          "period": 7,
+          "start": 1539586500,
+          "finish": 1539589200
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 15,
+          "day": 3,
+          "period": 1,
+          "start": 1545872100,
+          "finish": 1545874800
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 8,
+          "day": 0,
+          "period": 6,
+          "start": 1541397600,
+          "finish": 1541400300
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 5,
+          "day": 3,
+          "period": 1,
+          "start": 1539824100,
+          "finish": 1539826800
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 0,
+          "day": 0,
+          "period": 6,
+          "start": 1536559200,
+          "finish": 1536561900
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 15,
+          "day": 0,
+          "period": 7,
+          "start": 1545634500,
+          "finish": 1545637200
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 14,
+          "day": 0,
+          "period": 6,
+          "start": 1545026400,
+          "finish": 1545029100
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 1,
+          "day": 3,
+          "period": 1,
+          "start": 1537404900,
+          "finish": 1537407600
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 11,
+          "day": 3,
+          "period": 0,
+          "start": 1543449600,
+          "finish": 1543452300
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 2,
+          "day": 0,
+          "period": 7,
+          "start": 1537772100,
+          "finish": 1537774800
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 10,
+          "day": 0,
+          "period": 7,
+          "start": 1542610500,
+          "finish": 1542613200
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 5,
+          "day": 0,
+          "period": 6,
+          "start": 1539583200,
+          "finish": 1539585900
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 5,
+          "day": 3,
+          "period": 0,
+          "start": 1539820800,
+          "finish": 1539823500
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 6,
+          "day": 0,
+          "period": 7,
+          "start": 1540191300,
+          "finish": 1540194000
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 9,
+          "day": 0,
+          "period": 6,
+          "start": 1542002400,
+          "finish": 1542005100
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 14,
+          "day": 0,
+          "period": 7,
+          "start": 1545029700,
+          "finish": 1545032400
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 1,
+          "day": 0,
+          "period": 6,
+          "start": 1537164000,
+          "finish": 1537166700
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 13,
+          "day": 0,
+          "period": 6,
+          "start": 1544421600,
+          "finish": 1544424300
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 1,
+          "day": 3,
+          "period": 0,
+          "start": 1537401600,
+          "finish": 1537404300
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 11,
+          "day": 3,
+          "period": 1,
+          "start": 1543452900,
+          "finish": 1543455600
+        },
+        "classroom": {
+          "name": "中院312",
+          "kind": "sjtu.room"
+        }
+      }
+    ]
+  },
+  {
+    "name": "2018-2019-1-ME116-393614",
+    "kind": "sjtu.lesson",
+    "bsid": "393614",
+    "code": "2018-2019-1-ME116-393614",
+    "course": {
+      "code": "ME116",
+      "name": "工程学导论",
+      "kind": "sjtu.course"
+    },
+    "teachers": [
+      {
+        "name": "朱磊",
+        "kind": "canvas.profile"
+      }
+    ],
+    "organize": {
+      "id": "02000",
+      "name": "机械与动力工程学院"
+    },
+    "hours": 48,
+    "credits": 3,
+    "classes": [
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 8,
+          "day": 0,
+          "period": 3,
+          "start": 1541386500,
+          "finish": 1541389200
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 0,
+          "day": 0,
+          "period": 2,
+          "start": 1536544800,
+          "finish": 1536547500
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 9,
+          "day": 0,
+          "period": 2,
+          "start": 1541988000,
+          "finish": 1541990700
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 10,
+          "day": 0,
+          "period": 3,
+          "start": 1542596100,
+          "finish": 1542598800
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 14,
+          "day": 0,
+          "period": 3,
+          "start": 1545015300,
+          "finish": 1545018000
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 5,
+          "day": 0,
+          "period": 3,
+          "start": 1539572100,
+          "finish": 1539574800
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 13,
+          "day": 0,
+          "period": 2,
+          "start": 1544407200,
+          "finish": 1544409900
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 6,
+          "day": 0,
+          "period": 4,
+          "start": 1540180800,
+          "finish": 1540183500
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 8,
+          "day": 0,
+          "period": 2,
+          "start": 1541383200,
+          "finish": 1541385900
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 11,
+          "day": 0,
+          "period": 4,
+          "start": 1543204800,
+          "finish": 1543207500
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 2,
+          "day": 0,
+          "period": 4,
+          "start": 1537761600,
+          "finish": 1537764300
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 1,
+          "day": 0,
+          "period": 3,
+          "start": 1537152900,
+          "finish": 1537155600
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 0,
+          "period": 2,
+          "start": 1538964000,
+          "finish": 1538966700
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 15,
+          "day": 0,
+          "period": 4,
+          "start": 1545624000,
+          "finish": 1545626700
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 10,
+          "day": 0,
+          "period": 2,
+          "start": 1542592800,
+          "finish": 1542595500
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 14,
+          "day": 0,
+          "period": 2,
+          "start": 1545012000,
+          "finish": 1545014700
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 5,
+          "day": 0,
+          "period": 2,
+          "start": 1539568800,
+          "finish": 1539571500
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 3,
+          "day": 0,
+          "period": 4,
+          "start": 1538366400,
+          "finish": 1538369100
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 6,
+          "day": 0,
+          "period": 3,
+          "start": 1540176900,
+          "finish": 1540179600
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 11,
+          "day": 0,
+          "period": 3,
+          "start": 1543200900,
+          "finish": 1543203600
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 2,
+          "day": 0,
+          "period": 3,
+          "start": 1537757700,
+          "finish": 1537760400
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 12,
+          "day": 0,
+          "period": 4,
+          "start": 1543809600,
+          "finish": 1543812300
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 15,
+          "day": 0,
+          "period": 3,
+          "start": 1545620100,
+          "finish": 1545622800
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 1,
+          "day": 0,
+          "period": 2,
+          "start": 1537149600,
+          "finish": 1537152300
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 7,
+          "day": 0,
+          "period": 4,
+          "start": 1540785600,
+          "finish": 1540788300
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 9,
+          "day": 0,
+          "period": 4,
+          "start": 1541995200,
+          "finish": 1541997900
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 11,
+          "day": 0,
+          "period": 2,
+          "start": 1543197600,
+          "finish": 1543200300
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 13,
+          "day": 0,
+          "period": 4,
+          "start": 1544414400,
+          "finish": 1544417100
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 0,
+          "period": 4,
+          "start": 1538971200,
+          "finish": 1538973900
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 15,
+          "day": 0,
+          "period": 2,
+          "start": 1545616800,
+          "finish": 1545619500
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 6,
+          "day": 0,
+          "period": 2,
+          "start": 1540173600,
+          "finish": 1540176300
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 7,
+          "day": 0,
+          "period": 3,
+          "start": 1540781700,
+          "finish": 1540784400
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 12,
+          "day": 0,
+          "period": 3,
+          "start": 1543805700,
+          "finish": 1543808400
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 3,
+          "day": 0,
+          "period": 3,
+          "start": 1538362500,
+          "finish": 1538365200
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 0,
+          "day": 0,
+          "period": 4,
+          "start": 1536552000,
+          "finish": 1536554700
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 2,
+          "day": 0,
+          "period": 2,
+          "start": 1537754400,
+          "finish": 1537757100
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 8,
+          "day": 0,
+          "period": 4,
+          "start": 1541390400,
+          "finish": 1541393100
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 9,
+          "day": 0,
+          "period": 3,
+          "start": 1541991300,
+          "finish": 1541994000
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 13,
+          "day": 0,
+          "period": 3,
+          "start": 1544410500,
+          "finish": 1544413200
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 0,
+          "period": 3,
+          "start": 1538967300,
+          "finish": 1538970000
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 7,
+          "day": 0,
+          "period": 2,
+          "start": 1540778400,
+          "finish": 1540781100
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 5,
+          "day": 0,
+          "period": 4,
+          "start": 1539576000,
+          "finish": 1539578700
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 12,
+          "day": 0,
+          "period": 2,
+          "start": 1543802400,
+          "finish": 1543805100
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 3,
+          "day": 0,
+          "period": 2,
+          "start": 1538359200,
+          "finish": 1538361900
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 10,
+          "day": 0,
+          "period": 4,
+          "start": 1542600000,
+          "finish": 1542602700
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 1,
+          "day": 0,
+          "period": 4,
+          "start": 1537156800,
+          "finish": 1537159500
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 14,
+          "day": 0,
+          "period": 4,
+          "start": 1545019200,
+          "finish": 1545021900
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 0,
+          "day": 0,
+          "period": 3,
+          "start": 1536548100,
+          "finish": 1536550800
+        },
+        "classroom": {
+          "name": "上院101",
+          "kind": "sjtu.room"
+        }
+      }
+    ]
+  },
+  {
+    "name": "2018-2019-1-TH004-394014",
+    "kind": "sjtu.lesson",
+    "bsid": "394014",
+    "code": "2018-2019-1-TH004-394014",
+    "course": {
+      "code": "TH004",
+      "name": "军事理论",
+      "kind": "sjtu.course"
+    },
+    "teachers": [
+      {
+        "name": "闫成",
+        "kind": "canvas.profile"
+      }
+    ],
+    "organize": {
+      "id": "50501",
+      "name": "军事教研室"
+    },
+    "hours": 36,
+    "credits": 1,
+    "classes": [
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 6,
+          "day": 3,
+          "period": 7,
+          "start": 1540450500,
+          "finish": 1540453200
+        },
+        "classroom": {
+          "name": "上院210",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 7,
+          "day": 3,
+          "period": 6,
+          "start": 1541052000,
+          "finish": 1541054700
+        },
+        "classroom": {
+          "name": "上院210",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 7,
+          "day": 3,
+          "period": 7,
+          "start": 1541055300,
+          "finish": 1541058000
+        },
+        "classroom": {
+          "name": "上院210",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 3,
+          "period": 6,
+          "start": 1539237600,
+          "finish": 1539240300
+        },
+        "classroom": {
+          "name": "上院210",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 2,
+          "day": 3,
+          "period": 7,
+          "start": 1538031300,
+          "finish": 1538034000
+        },
+        "classroom": {
+          "name": "上院210",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 3,
+          "day": 3,
+          "period": 6,
+          "start": 1538632800,
+          "finish": 1538635500
+        },
+        "classroom": {
+          "name": "上院210",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 5,
+          "day": 3,
+          "period": 7,
+          "start": 1539845700,
+          "finish": 1539848400
+        },
+        "classroom": {
+          "name": "上院210",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 3,
+          "day": 3,
+          "period": 7,
+          "start": 1538636100,
+          "finish": 1538638800
+        },
+        "classroom": {
+          "name": "上院210",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 3,
+          "period": 7,
+          "start": 1539240900,
+          "finish": 1539243600
+        },
+        "classroom": {
+          "name": "上院210",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 5,
+          "day": 3,
+          "period": 6,
+          "start": 1539842400,
+          "finish": 1539845100
+        },
+        "classroom": {
+          "name": "上院210",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 6,
+          "day": 3,
+          "period": 6,
+          "start": 1540447200,
+          "finish": 1540449900
+        },
+        "classroom": {
+          "name": "上院210",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 1,
+          "day": 3,
+          "period": 7,
+          "start": 1537426500,
+          "finish": 1537429200
+        },
+        "classroom": {
+          "name": "上院210",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 0,
+          "day": 3,
+          "period": 7,
+          "start": 1536821700,
+          "finish": 1536824400
+        },
+        "classroom": {
+          "name": "上院210",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 1,
+          "day": 3,
+          "period": 6,
+          "start": 1537423200,
+          "finish": 1537425900
+        },
+        "classroom": {
+          "name": "上院210",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 2,
+          "day": 3,
+          "period": 6,
+          "start": 1538028000,
+          "finish": 1538030700
+        },
+        "classroom": {
+          "name": "上院210",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 0,
+          "day": 3,
+          "period": 6,
+          "start": 1536818400,
+          "finish": 1536821100
+        },
+        "classroom": {
+          "name": "上院210",
+          "kind": "sjtu.room"
+        }
+      }
+    ]
+  },
+  {
+    "name": "2018-2019-1-TH020-394031",
+    "kind": "sjtu.lesson",
+    "bsid": "394031",
+    "code": "2018-2019-1-TH020-394031",
+    "course": {
+      "code": "TH020",
+      "name": "形势与政策",
+      "kind": "sjtu.course"
+    },
+    "teachers": [
+      {
+        "name": "张怡凡",
+        "kind": "canvas.profile"
+      }
+    ],
+    "organize": {
+      "id": "23000",
+      "name": "马克思主义学院"
+    },
+    "hours": 8,
+    "credits": 0.5,
+    "classes": [
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 12,
+          "day": 2,
+          "period": 9,
+          "start": 1544000100,
+          "finish": 1544002800
+        },
+        "classroom": {
+          "name": "东上院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 2,
+          "day": 2,
+          "period": 9,
+          "start": 1537952100,
+          "finish": 1537954800
+        },
+        "classroom": {
+          "name": "东上院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 15,
+          "day": 2,
+          "period": 8,
+          "start": 1545811200,
+          "finish": 1545813900
+        },
+        "classroom": {
+          "name": "东上院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 2,
+          "period": 9,
+          "start": 1539161700,
+          "finish": 1539164400
+        },
+        "classroom": {
+          "name": "东上院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 0,
+          "day": 2,
+          "period": 9,
+          "start": 1536742500,
+          "finish": 1536745200
+        },
+        "classroom": {
+          "name": "东上院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 5,
+          "day": 2,
+          "period": 8,
+          "start": 1539763200,
+          "finish": 1539765900
+        },
+        "classroom": {
+          "name": "东上院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 10,
+          "day": 2,
+          "period": 9,
+          "start": 1542790500,
+          "finish": 1542793200
+        },
+        "classroom": {
+          "name": "东上院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 14,
+          "day": 2,
+          "period": 9,
+          "start": 1545209700,
+          "finish": 1545212400
+        },
+        "classroom": {
+          "name": "东上院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 7,
+          "day": 2,
+          "period": 8,
+          "start": 1540972800,
+          "finish": 1540975500
+        },
+        "classroom": {
+          "name": "东上院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 11,
+          "day": 2,
+          "period": 8,
+          "start": 1543392000,
+          "finish": 1543394700
+        },
+        "classroom": {
+          "name": "东上院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 3,
+          "day": 2,
+          "period": 8,
+          "start": 1538553600,
+          "finish": 1538556300
+        },
+        "classroom": {
+          "name": "东上院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 1,
+          "day": 2,
+          "period": 8,
+          "start": 1537344000,
+          "finish": 1537346700
+        },
+        "classroom": {
+          "name": "东上院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 13,
+          "day": 2,
+          "period": 8,
+          "start": 1544601600,
+          "finish": 1544604300
+        },
+        "classroom": {
+          "name": "东上院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 9,
+          "day": 2,
+          "period": 8,
+          "start": 1542182400,
+          "finish": 1542185100
+        },
+        "classroom": {
+          "name": "东上院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 7,
+          "day": 2,
+          "period": 9,
+          "start": 1540976100,
+          "finish": 1540978800
+        },
+        "classroom": {
+          "name": "东上院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 3,
+          "day": 2,
+          "period": 9,
+          "start": 1538556900,
+          "finish": 1538559600
+        },
+        "classroom": {
+          "name": "东上院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 11,
+          "day": 2,
+          "period": 9,
+          "start": 1543395300,
+          "finish": 1543398000
+        },
+        "classroom": {
+          "name": "东上院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 5,
+          "day": 2,
+          "period": 9,
+          "start": 1539766500,
+          "finish": 1539769200
+        },
+        "classroom": {
+          "name": "东上院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 9,
+          "day": 2,
+          "period": 9,
+          "start": 1542185700,
+          "finish": 1542188400
+        },
+        "classroom": {
+          "name": "东上院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 15,
+          "day": 2,
+          "period": 9,
+          "start": 1545814500,
+          "finish": 1545817200
+        },
+        "classroom": {
+          "name": "东上院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 1,
+          "day": 2,
+          "period": 9,
+          "start": 1537347300,
+          "finish": 1537350000
+        },
+        "classroom": {
+          "name": "东上院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 2,
+          "period": 8,
+          "start": 1539158400,
+          "finish": 1539161100
+        },
+        "classroom": {
+          "name": "东上院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 13,
+          "day": 2,
+          "period": 9,
+          "start": 1544604900,
+          "finish": 1544607600
+        },
+        "classroom": {
+          "name": "东上院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 6,
+          "day": 2,
+          "period": 8,
+          "start": 1540368000,
+          "finish": 1540370700
+        },
+        "classroom": {
+          "name": "东上院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 8,
+          "day": 2,
+          "period": 8,
+          "start": 1541577600,
+          "finish": 1541580300
+        },
+        "classroom": {
+          "name": "东上院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 2,
+          "day": 2,
+          "period": 8,
+          "start": 1537948800,
+          "finish": 1537951500
+        },
+        "classroom": {
+          "name": "东上院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 12,
+          "day": 2,
+          "period": 8,
+          "start": 1543996800,
+          "finish": 1543999500
+        },
+        "classroom": {
+          "name": "东上院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 0,
+          "day": 2,
+          "period": 8,
+          "start": 1536739200,
+          "finish": 1536741900
+        },
+        "classroom": {
+          "name": "东上院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 14,
+          "day": 2,
+          "period": 8,
+          "start": 1545206400,
+          "finish": 1545209100
+        },
+        "classroom": {
+          "name": "东上院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 10,
+          "day": 2,
+          "period": 8,
+          "start": 1542787200,
+          "finish": 1542789900
+        },
+        "classroom": {
+          "name": "东上院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 8,
+          "day": 2,
+          "period": 9,
+          "start": 1541580900,
+          "finish": 1541583600
+        },
+        "classroom": {
+          "name": "东上院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 6,
+          "day": 2,
+          "period": 9,
+          "start": 1540371300,
+          "finish": 1540374000
+        },
+        "classroom": {
+          "name": "东上院115",
+          "kind": "sjtu.room"
+        }
+      }
+    ]
+  },
+  {
+    "name": "2018-2019-1-EN062-394060",
+    "kind": "sjtu.lesson",
+    "bsid": "394060",
+    "code": "2018-2019-1-EN062-394060",
+    "course": {
+      "code": "EN062",
+      "name": "大学英语（2）",
+      "kind": "sjtu.course"
+    },
+    "teachers": [
+      {
+        "name": "赵学延",
+        "kind": "canvas.profile"
+      }
+    ],
+    "organize": {
+      "id": "14000",
+      "name": "外国语学院"
+    },
+    "hours": 48,
+    "credits": 3,
+    "classes": [
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 8,
+          "day": 4,
+          "period": 7,
+          "start": 1541746500,
+          "finish": 1541749200
+        },
+        "classroom": {
+          "name": "下院307",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 4,
+          "period": 7,
+          "start": 1539327300,
+          "finish": 1539330000
+        },
+        "classroom": {
+          "name": "下院307",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 14,
+          "day": 4,
+          "period": 7,
+          "start": 1545375300,
+          "finish": 1545378000
+        },
+        "classroom": {
+          "name": "下院307",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 2,
+          "day": 1,
+          "period": 1,
+          "start": 1537836900,
+          "finish": 1537839600
+        },
+        "classroom": {
+          "name": "上院511",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 5,
+          "day": 1,
+          "period": 0,
+          "start": 1539648000,
+          "finish": 1539650700
+        },
+        "classroom": {
+          "name": "上院511",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 15,
+          "day": 1,
+          "period": 1,
+          "start": 1545699300,
+          "finish": 1545702000
+        },
+        "classroom": {
+          "name": "上院511",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 1,
+          "day": 1,
+          "period": 0,
+          "start": 1537228800,
+          "finish": 1537231500
+        },
+        "classroom": {
+          "name": "上院511",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 10,
+          "day": 1,
+          "period": 0,
+          "start": 1542672000,
+          "finish": 1542674700
+        },
+        "classroom": {
+          "name": "上院511",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 11,
+          "day": 1,
+          "period": 1,
+          "start": 1543280100,
+          "finish": 1543282800
+        },
+        "classroom": {
+          "name": "上院511",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 0,
+          "day": 4,
+          "period": 7,
+          "start": 1536908100,
+          "finish": 1536910800
+        },
+        "classroom": {
+          "name": "下院307",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 14,
+          "day": 1,
+          "period": 0,
+          "start": 1545091200,
+          "finish": 1545093900
+        },
+        "classroom": {
+          "name": "上院511",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 10,
+          "day": 4,
+          "period": 6,
+          "start": 1542952800,
+          "finish": 1542955500
+        },
+        "classroom": {
+          "name": "下院307",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 6,
+          "day": 1,
+          "period": 1,
+          "start": 1540256100,
+          "finish": 1540258800
+        },
+        "classroom": {
+          "name": "上院511",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 6,
+          "day": 4,
+          "period": 6,
+          "start": 1540533600,
+          "finish": 1540536300
+        },
+        "classroom": {
+          "name": "下院307",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 14,
+          "day": 4,
+          "period": 6,
+          "start": 1545372000,
+          "finish": 1545374700
+        },
+        "classroom": {
+          "name": "下院307",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 2,
+          "day": 4,
+          "period": 6,
+          "start": 1538114400,
+          "finish": 1538117100
+        },
+        "classroom": {
+          "name": "下院307",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 3,
+          "day": 1,
+          "period": 1,
+          "start": 1538441700,
+          "finish": 1538444400
+        },
+        "classroom": {
+          "name": "上院511",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 6,
+          "day": 1,
+          "period": 0,
+          "start": 1540252800,
+          "finish": 1540255500
+        },
+        "classroom": {
+          "name": "上院511",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 2,
+          "day": 1,
+          "period": 0,
+          "start": 1537833600,
+          "finish": 1537836300
+        },
+        "classroom": {
+          "name": "上院511",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 11,
+          "day": 1,
+          "period": 0,
+          "start": 1543276800,
+          "finish": 1543279500
+        },
+        "classroom": {
+          "name": "上院511",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 12,
+          "day": 1,
+          "period": 1,
+          "start": 1543884900,
+          "finish": 1543887600
+        },
+        "classroom": {
+          "name": "上院511",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 15,
+          "day": 1,
+          "period": 0,
+          "start": 1545696000,
+          "finish": 1545698700
+        },
+        "classroom": {
+          "name": "上院511",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 7,
+          "day": 1,
+          "period": 1,
+          "start": 1540860900,
+          "finish": 1540863600
+        },
+        "classroom": {
+          "name": "上院511",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 6,
+          "day": 4,
+          "period": 7,
+          "start": 1540536900,
+          "finish": 1540539600
+        },
+        "classroom": {
+          "name": "下院307",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 12,
+          "day": 4,
+          "period": 7,
+          "start": 1544165700,
+          "finish": 1544168400
+        },
+        "classroom": {
+          "name": "下院307",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 2,
+          "day": 4,
+          "period": 7,
+          "start": 1538117700,
+          "finish": 1538120400
+        },
+        "classroom": {
+          "name": "下院307",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 9,
+          "day": 1,
+          "period": 0,
+          "start": 1542067200,
+          "finish": 1542069900
+        },
+        "classroom": {
+          "name": "上院511",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 3,
+          "day": 1,
+          "period": 0,
+          "start": 1538438400,
+          "finish": 1538441100
+        },
+        "classroom": {
+          "name": "上院511",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 1,
+          "period": 1,
+          "start": 1539046500,
+          "finish": 1539049200
+        },
+        "classroom": {
+          "name": "上院511",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 0,
+          "day": 1,
+          "period": 1,
+          "start": 1536627300,
+          "finish": 1536630000
+        },
+        "classroom": {
+          "name": "上院511",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 9,
+          "day": 1,
+          "period": 1,
+          "start": 1542070500,
+          "finish": 1542073200
+        },
+        "classroom": {
+          "name": "上院511",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 12,
+          "day": 1,
+          "period": 0,
+          "start": 1543881600,
+          "finish": 1543884300
+        },
+        "classroom": {
+          "name": "上院511",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 13,
+          "day": 1,
+          "period": 1,
+          "start": 1544489700,
+          "finish": 1544492400
+        },
+        "classroom": {
+          "name": "上院511",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 12,
+          "day": 4,
+          "period": 6,
+          "start": 1544162400,
+          "finish": 1544165100
+        },
+        "classroom": {
+          "name": "下院307",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 7,
+          "day": 1,
+          "period": 0,
+          "start": 1540857600,
+          "finish": 1540860300
+        },
+        "classroom": {
+          "name": "上院511",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 8,
+          "day": 1,
+          "period": 1,
+          "start": 1541465700,
+          "finish": 1541468400
+        },
+        "classroom": {
+          "name": "上院511",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 8,
+          "day": 4,
+          "period": 6,
+          "start": 1541743200,
+          "finish": 1541745900
+        },
+        "classroom": {
+          "name": "下院307",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 4,
+          "period": 6,
+          "start": 1539324000,
+          "finish": 1539326700
+        },
+        "classroom": {
+          "name": "下院307",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 1,
+          "period": 0,
+          "start": 1539043200,
+          "finish": 1539045900
+        },
+        "classroom": {
+          "name": "上院511",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 13,
+          "day": 1,
+          "period": 0,
+          "start": 1544486400,
+          "finish": 1544489100
+        },
+        "classroom": {
+          "name": "上院511",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 5,
+          "day": 1,
+          "period": 1,
+          "start": 1539651300,
+          "finish": 1539654000
+        },
+        "classroom": {
+          "name": "上院511",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 1,
+          "day": 1,
+          "period": 1,
+          "start": 1537232100,
+          "finish": 1537234800
+        },
+        "classroom": {
+          "name": "上院511",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 10,
+          "day": 1,
+          "period": 1,
+          "start": 1542675300,
+          "finish": 1542678000
+        },
+        "classroom": {
+          "name": "上院511",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 0,
+          "day": 1,
+          "period": 0,
+          "start": 1536624000,
+          "finish": 1536626700
+        },
+        "classroom": {
+          "name": "上院511",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 14,
+          "day": 1,
+          "period": 1,
+          "start": 1545094500,
+          "finish": 1545097200
+        },
+        "classroom": {
+          "name": "上院511",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 0,
+          "day": 4,
+          "period": 6,
+          "start": 1536904800,
+          "finish": 1536907500
+        },
+        "classroom": {
+          "name": "下院307",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 10,
+          "day": 4,
+          "period": 7,
+          "start": 1542956100,
+          "finish": 1542958800
+        },
+        "classroom": {
+          "name": "下院307",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 8,
+          "day": 1,
+          "period": 0,
+          "start": 1541462400,
+          "finish": 1541465100
+        },
+        "classroom": {
+          "name": "上院511",
+          "kind": "sjtu.room"
+        }
+      }
+    ]
+  },
+  {
+    "name": "2018-2019-1-PE001-394311",
+    "kind": "sjtu.lesson",
+    "bsid": "394311",
+    "code": "2018-2019-1-PE001-394311",
+    "course": {
+      "code": "PE001",
+      "name": "体育（1）",
+      "kind": "sjtu.course"
+    },
+    "teachers": [
+      {
+        "name": "叶汉忠",
+        "kind": "canvas.profile"
+      }
+    ],
+    "organize": {
+      "id": "25100",
+      "name": "体育系"
+    },
+    "hours": 32,
+    "credits": 1,
+    "classes": [
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 9,
+          "day": 2,
+          "period": 2,
+          "start": 1542160800,
+          "finish": 1542163500
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 14,
+          "day": 2,
+          "period": 3,
+          "start": 1545188100,
+          "finish": 1545190800
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 15,
+          "day": 2,
+          "period": 2,
+          "start": 1545789600,
+          "finish": 1545792300
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 12,
+          "day": 2,
+          "period": 3,
+          "start": 1543978500,
+          "finish": 1543981200
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 13,
+          "day": 2,
+          "period": 2,
+          "start": 1544580000,
+          "finish": 1544582700
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 11,
+          "day": 2,
+          "period": 2,
+          "start": 1543370400,
+          "finish": 1543373100
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 1,
+          "day": 2,
+          "period": 3,
+          "start": 1537325700,
+          "finish": 1537328400
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 10,
+          "day": 2,
+          "period": 3,
+          "start": 1542768900,
+          "finish": 1542771600
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 2,
+          "day": 2,
+          "period": 2,
+          "start": 1537927200,
+          "finish": 1537929900
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 0,
+          "day": 2,
+          "period": 2,
+          "start": 1536717600,
+          "finish": 1536720300
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 3,
+          "day": 2,
+          "period": 3,
+          "start": 1538535300,
+          "finish": 1538538000
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 2,
+          "period": 2,
+          "start": 1539136800,
+          "finish": 1539139500
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 7,
+          "day": 2,
+          "period": 3,
+          "start": 1540954500,
+          "finish": 1540957200
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 8,
+          "day": 2,
+          "period": 2,
+          "start": 1541556000,
+          "finish": 1541558700
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 5,
+          "day": 2,
+          "period": 3,
+          "start": 1539744900,
+          "finish": 1539747600
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 6,
+          "day": 2,
+          "period": 2,
+          "start": 1540346400,
+          "finish": 1540349100
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 6,
+          "day": 2,
+          "period": 3,
+          "start": 1540349700,
+          "finish": 1540352400
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 15,
+          "day": 2,
+          "period": 3,
+          "start": 1545792900,
+          "finish": 1545795600
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 13,
+          "day": 2,
+          "period": 3,
+          "start": 1544583300,
+          "finish": 1544586000
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 14,
+          "day": 2,
+          "period": 2,
+          "start": 1545184800,
+          "finish": 1545187500
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 11,
+          "day": 2,
+          "period": 3,
+          "start": 1543373700,
+          "finish": 1543376400
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 12,
+          "day": 2,
+          "period": 2,
+          "start": 1543975200,
+          "finish": 1543977900
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 0,
+          "day": 2,
+          "period": 3,
+          "start": 1536720900,
+          "finish": 1536723600
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 1,
+          "day": 2,
+          "period": 2,
+          "start": 1537322400,
+          "finish": 1537325100
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 9,
+          "day": 2,
+          "period": 3,
+          "start": 1542164100,
+          "finish": 1542166800
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 10,
+          "day": 2,
+          "period": 2,
+          "start": 1542765600,
+          "finish": 1542768300
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 2,
+          "day": 2,
+          "period": 3,
+          "start": 1537930500,
+          "finish": 1537933200
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 3,
+          "day": 2,
+          "period": 2,
+          "start": 1538532000,
+          "finish": 1538534700
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 8,
+          "day": 2,
+          "period": 3,
+          "start": 1541559300,
+          "finish": 1541562000
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 5,
+          "day": 2,
+          "period": 2,
+          "start": 1539741600,
+          "finish": 1539744300
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 2,
+          "period": 3,
+          "start": 1539140100,
+          "finish": 1539142800
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 7,
+          "day": 2,
+          "period": 2,
+          "start": 1540951200,
+          "finish": 1540953900
+        },
+        "classroom": {
+          "name": ".",
+          "kind": "sjtu.room"
+        }
+      }
+    ]
+  },
+  {
+    "name": "2018-2019-1-TH000-394427",
+    "kind": "sjtu.lesson",
+    "bsid": "394427",
+    "code": "2018-2019-1-TH000-394427",
+    "course": {
+      "code": "TH000",
+      "name": "思想道德修养与法律基础",
+      "kind": "sjtu.course"
+    },
+    "teachers": [
+      {
+        "name": "陈茜",
+        "kind": "canvas.profile"
+      }
+    ],
+    "organize": {
+      "id": "23000",
+      "name": "马克思主义学院"
+    },
+    "hours": 48,
+    "credits": 3,
+    "classes": [
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 0,
+          "day": 0,
+          "period": 10,
+          "start": 1536573600,
+          "finish": 1536576300
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 11,
+          "day": 0,
+          "period": 11,
+          "start": 1543229700,
+          "finish": 1543232400
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 10,
+          "day": 0,
+          "period": 10,
+          "start": 1542621600,
+          "finish": 1542624300
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 8,
+          "day": 0,
+          "period": 11,
+          "start": 1541415300,
+          "finish": 1541418000
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 5,
+          "day": 0,
+          "period": 12,
+          "start": 1539604200,
+          "finish": 1539606900
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 7,
+          "day": 0,
+          "period": 10,
+          "start": 1540807200,
+          "finish": 1540809900
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 14,
+          "day": 0,
+          "period": 10,
+          "start": 1545040800,
+          "finish": 1545043500
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 0,
+          "period": 11,
+          "start": 1538996100,
+          "finish": 1538998800
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 15,
+          "day": 0,
+          "period": 11,
+          "start": 1545648900,
+          "finish": 1545651600
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 12,
+          "day": 0,
+          "period": 12,
+          "start": 1543837800,
+          "finish": 1543840500
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 1,
+          "day": 0,
+          "period": 12,
+          "start": 1537185000,
+          "finish": 1537187700
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 3,
+          "day": 0,
+          "period": 10,
+          "start": 1538388000,
+          "finish": 1538390700
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 1,
+          "day": 0,
+          "period": 10,
+          "start": 1537178400,
+          "finish": 1537181100
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 10,
+          "day": 0,
+          "period": 11,
+          "start": 1542624900,
+          "finish": 1542627600
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 9,
+          "day": 0,
+          "period": 10,
+          "start": 1542016800,
+          "finish": 1542019500
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 8,
+          "day": 0,
+          "period": 10,
+          "start": 1541412000,
+          "finish": 1541414700
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 15,
+          "day": 0,
+          "period": 12,
+          "start": 1545652200,
+          "finish": 1545654900
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 6,
+          "day": 0,
+          "period": 12,
+          "start": 1540209000,
+          "finish": 1540211700
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 5,
+          "day": 0,
+          "period": 11,
+          "start": 1539600900,
+          "finish": 1539603600
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 13,
+          "day": 0,
+          "period": 10,
+          "start": 1544436000,
+          "finish": 1544438700
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 0,
+          "period": 10,
+          "start": 1538992800,
+          "finish": 1538995500
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 11,
+          "day": 0,
+          "period": 12,
+          "start": 1543233000,
+          "finish": 1543235700
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 14,
+          "day": 0,
+          "period": 11,
+          "start": 1545044100,
+          "finish": 1545046800
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 1,
+          "day": 0,
+          "period": 11,
+          "start": 1537181700,
+          "finish": 1537184400
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 2,
+          "day": 0,
+          "period": 12,
+          "start": 1537789800,
+          "finish": 1537792500
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 10,
+          "day": 0,
+          "period": 12,
+          "start": 1542628200,
+          "finish": 1542630900
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 12,
+          "day": 0,
+          "period": 10,
+          "start": 1543831200,
+          "finish": 1543833900
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 9,
+          "day": 0,
+          "period": 11,
+          "start": 1542020100,
+          "finish": 1542022800
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 7,
+          "day": 0,
+          "period": 12,
+          "start": 1540813800,
+          "finish": 1540816500
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 6,
+          "day": 0,
+          "period": 11,
+          "start": 1540205700,
+          "finish": 1540208400
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 13,
+          "day": 0,
+          "period": 11,
+          "start": 1544439300,
+          "finish": 1544442000
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 5,
+          "day": 0,
+          "period": 10,
+          "start": 1539597600,
+          "finish": 1539600300
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 14,
+          "day": 0,
+          "period": 12,
+          "start": 1545047400,
+          "finish": 1545050100
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 2,
+          "day": 0,
+          "period": 11,
+          "start": 1537786500,
+          "finish": 1537789200
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 3,
+          "day": 0,
+          "period": 12,
+          "start": 1538394600,
+          "finish": 1538397300
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 0,
+          "day": 0,
+          "period": 11,
+          "start": 1536576900,
+          "finish": 1536579600
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 11,
+          "day": 0,
+          "period": 10,
+          "start": 1543226400,
+          "finish": 1543229100
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 9,
+          "day": 0,
+          "period": 12,
+          "start": 1542023400,
+          "finish": 1542026100
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 7,
+          "day": 0,
+          "period": 11,
+          "start": 1540810500,
+          "finish": 1540813200
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 4,
+          "day": 0,
+          "period": 12,
+          "start": 1538999400,
+          "finish": 1539002100
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 6,
+          "day": 0,
+          "period": 10,
+          "start": 1540202400,
+          "finish": 1540205100
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 12,
+          "day": 0,
+          "period": 11,
+          "start": 1543834500,
+          "finish": 1543837200
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 13,
+          "day": 0,
+          "period": 12,
+          "start": 1544442600,
+          "finish": 1544445300
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 15,
+          "day": 0,
+          "period": 10,
+          "start": 1545645600,
+          "finish": 1545648300
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 2,
+          "day": 0,
+          "period": 10,
+          "start": 1537783200,
+          "finish": 1537785900
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 0,
+          "day": 0,
+          "period": 12,
+          "start": 1536580200,
+          "finish": 1536582900
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 3,
+          "day": 0,
+          "period": 11,
+          "start": 1538391300,
+          "finish": 1538394000
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      },
+      {
+        "schedule": {
+          "kind": "sjtu.schedule",
+          "week": 8,
+          "day": 0,
+          "period": 12,
+          "start": 1541418600,
+          "finish": 1541421300
+        },
+        "classroom": {
+          "name": "中院115",
+          "kind": "sjtu.room"
+        }
+      }
+    ]
+  }
+]
