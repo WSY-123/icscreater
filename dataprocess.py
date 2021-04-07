@@ -21,20 +21,21 @@ DONE_ALARMUID = ""
 classTimeList = []
 classInfoList = []
 
+# 入口函数
 def start():
 
     basicSetting();
     uniteSetting();
     classInfoHandle();
     icsCreateAndSave();
-    print('课程表已保存至脚本目录下的 class.ics 中，你现在可以导入了：）')
 
-
+# 文件保存函数
 def save(string):
     f = open("class.ics", 'wb')
     f.write(string.encode("utf-8"))
     f.close()
 
+# 创建ics文件并使用save进行保存
 def icsCreateAndSave():
     icsString = "BEGIN:VCALENDAR\nMETHOD:PUBLISH\nVERSION:2.0\nX-WR-CALNAME:课程表\nPRODID:-//Apple Inc.//Mac OS X 10.12//EN\nX-APPLE-CALENDAR-COLOR:#FC4208\nX-WR-TIMEZONE:Asia/Beijing\nCALSCALE:GREGORIAN\nBEGIN:VTIMEZONE\nTZID:Asia/Beijing\nBEGIN:STANDARD\nTZOFFSETFROM:+0900\nRRULE:FREQ=YEARLY;UNTIL=19910914T150000Z;BYMONTH=9;BYDAY=3SU\nDTSTART:19890917T000000\nTZNAME:GMT+8\nTZOFFSETTO:+0800\nEND:STANDARD\nBEGIN:DAYLIGHT\nTZOFFSETFROM:+0800\nDTSTART:19910414T000000\nTZNAME:GMT+8\nTZOFFSETTO:+0900\nRDATE:19910414T000000\nEND:DAYLIGHT\nEND:VTIMEZONE\n"
     global classTimeList, DONE_ALARMUID, DONE_UnitUID
@@ -61,15 +62,15 @@ def icsCreateAndSave():
             index += 1
     icsString = icsString + eventString + "END:VCALENDAR"
     save(icsString)
-    print("Now running: icsCreateAndSave()")
 
+# 日期数据处理
 def classInfoHandle():
     global classInfoList
     global DONE_firstWeekDate
     i = 0
 
     for classInfo in classInfoList :
-        # 具体日期计算出来
+        # 计算具体日期
 
         startWeek = json.dumps(classInfo["week"]["startweek"])
         endWeek = json.dumps(classInfo["week"]["endweek"])
@@ -114,10 +115,9 @@ def classInfoHandle():
         for date  in dateList:
             UID_List.append(UID_Create())
         classInfo["UID"] = UID_List
-    print("Now running: classInfoHandle()")
 
 def UID_Create():
-    return random_str(20) + "&xiejiadong.com"
+    return random_str(20) + "&wangjinzhou.com"
 
 
 def CreateTime():
@@ -127,27 +127,25 @@ def CreateTime():
     DONE_CreatedTime = date + "Z"
     # 生成 UID
     global DONE_EventUID
-    DONE_EventUID = random_str(20) + "&xiejiadong.com"
-
-    print("Now running: CreateTime()")
+    DONE_EventUID = random_str(20) + "&wangjinzhou.com"
 
 def uniteSetting():
     #
     global DONE_ALARMUID
-    DONE_ALARMUID = random_str(30) + "&xiejiadong.com"
+    DONE_ALARMUID = random_str(30) + "&wangjinzhou.com"
     #
     global DONE_UnitUID
-    DONE_UnitUID = random_str(20) + "&xiejiadong.com"
-    print("Now running: uniteSetting()")
+    DONE_UnitUID = random_str(20) + "&wangjinzhou.com"
 
+# 读取课程时间配置文件
 def setClassTime():
     data = []
     with open('config/conf_classTime.json', 'r',encoding = 'utf-8') as f:
         data = json.load(f)
     global classTimeList
     classTimeList = data["classTime"]
-    print("Now running: setclassTime()")
 
+# 读取处理好的课程信息
 def setClassInfo():
     data = []
     with open('DATA/conf_classInfo.json', 'r') as f:
@@ -156,11 +154,13 @@ def setClassInfo():
     classInfoList = data["classInfo"]
     print("Now running: setClassInfo()")
 
+# 设定原点日期
 def setFirstWeekDate(firstWeekDate):
     global DONE_firstWeekDate
     DONE_firstWeekDate = time.strptime(firstWeekDate,'%Y%m%d')
     print("Now running: setFirstWeekDate():", DONE_firstWeekDate)
 
+# 设置提醒功能
 def setReminder(reminder):
     global DONE_reminder
     reminderList = ["-PT10M","-PT15M","-PT30M","-PT1H","-P1D"]
@@ -176,9 +176,6 @@ def setReminder(reminder):
         DONE_reminder = reminderList[4]
     else:
         DONE_reminder = "NULL"
-
-
-    print("setReminder",reminder)
 
 def checkReminder(reminder):
     # TODO
@@ -210,59 +207,48 @@ def checkFirstWeekDate(firstWeekDate):
     if(int(date) > dateList[int(month)-1]):
         return NO;
 
-    print("Now running: checkFirstWeekDate():", firstWeekDate)
     return YES
 
+# 基础设置
 def basicSetting():
     f = open('DATA/timeinput.txt','r')
     data = f.read()
-    info = "欢迎使用课程表生成工具。\n接下来你需要设置一些基础的信息方便生成数据\n"
-    print (info)
 
-    info = "请设置第一周的星期一日期(如：20160905):\n"
     firstWeekDate = data
     checkInput(checkFirstWeekDate, firstWeekDate)
 
-    info = "正在配置上课时间信息……\n"
-    print(info)
     try :
         setClassTime()
-        print("配置上课时间信息完成。\n")
     except :
         sys_exit()
     # except Exception as e:
     # 	print(str(e))
 
-    info = "正在配置课堂信息……\n"
-    print(info)
     try :
         setClassInfo()
-        print("配置课堂信息完成。\n")
     except :
         sys_exit()
 
     f = open('DATA/alarminput.txt','r')
     data = f.read()
-    info = "正在配置提醒功能，请输入数字选择提醒时间:\n[0] 不提醒\n[1] 上课前 10 分钟提醒\n[2] 上课前 15 分钟提醒\n[3] 上课前 30 分钟提醒\n[4] 上课前 1 小时提醒\n[5] 上课前 1 天提醒\n"
     checkInput(checkReminder, data)
+# 检查输入
 def checkInput(checkType, input):
     if(checkType == checkFirstWeekDate):
         if (checkFirstWeekDate(input)):
-            info = "输入有误，请重新输入第一周的星期一日期(如：20160905):\n"
-            firstWeekDate = input(info)
-            checkInput(checkFirstWeekDate, firstWeekDate)
+            info = "时间输入有误，生成失败"
+            sys_exit()
         else:
             setFirstWeekDate(input)
     elif(checkType == checkReminder):
         if(checkReminder(input)):
-            info = "输入有误，请重新输入\n[0] 不提醒\n[1] 上课前 10 分钟提醒\n[2] 上课前 15 分钟提醒\n[3] 上课前 30 分钟提醒\n[4] 上课前 1 小时提醒\n[5] 上课前 1 天提醒\n"
-            reminder = input(info)
-            checkInput(checkReminder, reminder)
+            info = "提醒输入有误，生成失败"
+            sys_exit()
         else:
             setReminder(input)
 
     else:
-        print("程序出错了……")
+        print("程序出错了")
 
 def random_str(randomlength):
     str = ''

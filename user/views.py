@@ -10,6 +10,7 @@ def login(request):
     return render(request,'user/login.html',locals())
 
 def process(request):
+    # 通过网页参数获取返回的code
     f = furl(request.get_full_path())
     code = f.args['code']
     url = 'https://jaccount.sjtu.edu.cn/oauth2/token'
@@ -24,22 +25,24 @@ def process(request):
         'client_secret': client_secret,
         'redirect_uri': redirect_uri
     }
+    # 获取acess_token
     result = requests.post(url, data)
     strResult = json.loads(result.text)
     id_token = strResult['id_token']
     access_token = strResult['access_token']
     headers = {"Authorization": "Bearer {}".format(access_token)}
-    url = 'https://api.sjtu.edu.cn/v1/me/lessons/2018-2019-1?access_token=' + access_token
+    # 获取信息
+    url = 'https://api.sjtu.edu.cn/v1/me/lessons/2020-2021-2?access_token=' + access_token
     r = requests.request(url=url, method='GET', headers=headers, timeout=(20, 60))
     entities = json.loads(r.text).get('entities')
     # print(entities)
     # for entity in entities:
     #     print(entity)
-    dic = entities[0]
-    dic0 = dic['teachers'][0]
+    # dic = entities[0]
+    # dic0 = dic['teachers'][0]
     # print(dic0['name'])
 
-    print(type(entities))
+    # print(type(entities))
     FILE_PATH = 'D:\PyProjects\icscreater\DATA'
     with open('{}\lessonsdata.json'.format(FILE_PATH), 'w', encoding='UTF-8') as fp:
         fp.write(json.dumps(entities,ensure_ascii=False,indent=2))

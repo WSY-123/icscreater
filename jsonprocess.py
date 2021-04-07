@@ -24,7 +24,7 @@ with open('DATA/lessonsdata.json', 'r',encoding='UTF-8') as f:
     # print(data[0])
     num = len(before)
     classInfo = []
-    # 代号与课程具体时间和的转换
+    # 代号与课程具体时间乘积的转换
     dictrans = {
         2:1,
         12:2,

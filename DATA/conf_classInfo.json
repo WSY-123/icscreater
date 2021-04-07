@@ -1,161 +1,51 @@
 {
     "classInfo": [
         {
-            "className": "绝对零度的奇迹：超流与超导",
-            "week": {
-                "startweek": 5,
-                "endweek": 15
-            },
-            "weekday": 4,
-            "weeks": 3,
-            "classTime": 7,
-            "classroom": "上院304"
-        },
-        {
-            "className": "线性代数（B类）",
-            "week": {
-                "startweek": 1,
-                "endweek": 16
-            },
-            "weekday": 2,
-            "weeks": 3,
-            "classTime": 2,
-            "classroom": "东下院115"
-        },
-        {
-            "className": "线性代数（B类）",
-            "week": {
-                "startweek": 1,
-                "endweek": 16
-            },
-            "weekday": 4,
-            "weeks": 1,
-            "classTime": 1,
-            "classroom": "东下院115"
-        },
-        {
-            "className": "高等数学（A）（1）",
-            "week": {
-                "startweek": 1,
-                "endweek": 16
-            },
-            "weekday": 1,
-            "weeks": 3,
-            "classTime": 1,
-            "classroom": "东上院312"
-        },
-        {
-            "className": "高等数学（A）（1）",
-            "week": {
-                "startweek": 1,
-                "endweek": 16
-            },
-            "weekday": 3,
-            "weeks": 3,
-            "classTime": 1,
-            "classroom": "东上院312"
-        },
-        {
-            "className": "高等数学（A）（1）",
-            "week": {
-                "startweek": 1,
-                "endweek": 16
-            },
-            "weekday": 5,
-            "weeks": 3,
-            "classTime": 2,
-            "classroom": "东上院312"
-        },
-        {
-            "className": "大学化学",
-            "week": {
-                "startweek": 1,
-                "endweek": 16
-            },
-            "weekday": 4,
-            "weeks": 3,
-            "classTime": 2,
-            "classroom": "东上院311"
-        },
-        {
-            "className": "大学化学实验",
-            "week": {
-                "startweek": 2,
-                "endweek": 6
-            },
-            "weekday": 2,
-            "weeks": 3,
-            "classTime": 9,
-            "classroom": "."
-        },
-        {
-            "className": "程序设计思想与方法（C++）",
-            "week": {
-                "startweek": 1,
-                "endweek": 16
-            },
-            "weekday": 1,
-            "weeks": 3,
-            "classTime": 4,
-            "classroom": "中院312"
-        },
-        {
-            "className": "程序设计思想与方法（C++）",
-            "week": {
-                "startweek": 1,
-                "endweek": 16
-            },
-            "weekday": 4,
-            "weeks": 2,
-            "classTime": 1,
-            "classroom": "中院312"
-        },
-        {
-            "className": "工程学导论",
-            "week": {
-                "startweek": 1,
-                "endweek": 16
-            },
-            "weekday": 1,
-            "weeks": 3,
-            "classTime": 10,
-            "classroom": "上院101"
-        },
-        {
-            "className": "军事理论",
+            "className": "通信原理（B类）",
             "week": {
                 "startweek": 1,
                 "endweek": 8
             },
+            "weekday": 5,
+            "weeks": 3,
+            "classTime": 1,
+            "classroom": "东中院3-405"
+        },
+        {
+            "className": "通信原理（B类）",
+            "week": {
+                "startweek": 1,
+                "endweek": 8
+            },
+            "weekday": 2,
+            "weeks": 3,
+            "classTime": 2,
+            "classroom": "东中院3-405"
+        },
+        {
+            "className": "人与环境",
+            "week": {
+                "startweek": 1,
+                "endweek": 16
+            },
+            "weekday": 2,
+            "weeks": 3,
+            "classTime": 7,
+            "classroom": "下院105"
+        },
+        {
+            "className": "中国古代文学史",
+            "week": {
+                "startweek": 1,
+                "endweek": 16
+            },
             "weekday": 4,
             "weeks": 3,
-            "classTime": 4,
-            "classroom": "上院210"
-        },
-        {
-            "className": "形势与政策",
-            "week": {
-                "startweek": 1,
-                "endweek": 16
-            },
-            "weekday": 3,
-            "weeks": 3,
-            "classTime": 8,
-            "classroom": "东上院115"
-        },
-        {
-            "className": "大学英语（2）",
-            "week": {
-                "startweek": 1,
-                "endweek": 16
-            },
-            "weekday": 5,
-            "weeks": 1,
-            "classTime": 4,
+            "classTime": 7,
             "classroom": "下院307"
         },
         {
-            "className": "大学英语（2）",
+            "className": "细胞工程",
             "week": {
                 "startweek": 1,
                 "endweek": 16
@@ -163,29 +53,172 @@
             "weekday": 2,
             "weeks": 3,
             "classTime": 1,
-            "classroom": "下院307"
+            "classroom": "东上院115"
         },
         {
-            "className": "体育（1）",
+            "className": "蔬菜学",
+            "week": {
+                "startweek": 9,
+                "endweek": 16
+            },
+            "weekday": 3,
+            "weeks": 3,
+            "classTime": 1,
+            "classroom": "东中院2-203"
+        },
+        {
+            "className": "蔬菜学",
+            "week": {
+                "startweek": 9,
+                "endweek": 16
+            },
+            "weekday": 1,
+            "weeks": 3,
+            "classTime": 4,
+            "classroom": "东中院2-203"
+        },
+        {
+            "className": "饲料学",
+            "week": {
+                "startweek": 9,
+                "endweek": 16
+            },
+            "weekday": 4,
+            "weeks": 3,
+            "classTime": 2,
+            "classroom": "东中院4-202"
+        },
+        {
+            "className": "饲料学",
+            "week": {
+                "startweek": 9,
+                "endweek": 16
+            },
+            "weekday": 1,
+            "weeks": 3,
+            "classTime": 2,
+            "classroom": "东中院4-202"
+        },
+        {
+            "className": "信息安全综合实践",
             "week": {
                 "startweek": 1,
+                "endweek": 16
+            },
+            "weekday": 5,
+            "weeks": 3,
+            "classTime": 3,
+            "classroom": "下院114"
+        },
+        {
+            "className": "嵌入式系统原理与应用",
+            "week": {
+                "startweek": 1,
+                "endweek": 8
+            },
+            "weekday": 1,
+            "weeks": 3,
+            "classTime": 4,
+            "classroom": "东中院1-106"
+        },
+        {
+            "className": "嵌入式系统原理与应用",
+            "week": {
+                "startweek": 1,
+                "endweek": 8
+            },
+            "weekday": 3,
+            "weeks": 3,
+            "classTime": 1,
+            "classroom": "东中院1-106"
+        },
+        {
+            "className": "Windows安全原理与技术",
+            "week": {
+                "startweek": 9,
                 "endweek": 16
             },
             "weekday": 3,
             "weeks": 3,
             "classTime": 2,
-            "classroom": "."
+            "classroom": "东上院315"
         },
         {
-            "className": "思想道德修养与法律基础",
+            "className": "Windows安全原理与技术",
+            "week": {
+                "startweek": 9,
+                "endweek": 16
+            },
+            "weekday": 5,
+            "weeks": 3,
+            "classTime": 1,
+            "classroom": "东上院315"
+        },
+        {
+            "className": "应用软件课程设计",
+            "week": {
+                "startweek": 1,
+                "endweek": 16
+            },
+            "weekday": 5,
+            "weeks": 3,
+            "classTime": 2,
+            "classroom": "东上院415"
+        },
+        {
+            "className": "FPGA应用实验",
+            "week": {
+                "startweek": 1,
+                "endweek": 8
+            },
+            "weekday": 2,
+            "weeks": 3,
+            "classTime": 5,
+            "classroom": "下院114"
+        },
+        {
+            "className": "操作系统（B类）",
+            "week": {
+                "startweek": 1,
+                "endweek": 16
+            },
+            "weekday": 4,
+            "weeks": 3,
+            "classTime": 4,
+            "classroom": "东上院309"
+        },
+        {
+            "className": "操作系统（B类）",
             "week": {
                 "startweek": 1,
                 "endweek": 16
             },
             "weekday": 1,
             "weeks": 3,
-            "classTime": 7,
-            "classroom": "中院115"
+            "classTime": 1,
+            "classroom": "东上院309"
+        },
+        {
+            "className": "现代密码学",
+            "week": {
+                "startweek": 1,
+                "endweek": 8
+            },
+            "weekday": 1,
+            "weeks": 3,
+            "classTime": 2,
+            "classroom": "东上院202"
+        },
+        {
+            "className": "现代密码学",
+            "week": {
+                "startweek": 1,
+                "endweek": 8
+            },
+            "weekday": 3,
+            "weeks": 3,
+            "classTime": 2,
+            "classroom": "东上院202"
         }
     ]
 }
